@@ -2,7 +2,7 @@
 
 **Student:** Yuvraj Santosh Tapkir  
 **PRN:** 202501110180  
-**Batch shown in practical file:** AIML (B3)
+**Batch ** AIML (B3)
 
 This repository contains the source-code files extracted from the submitted 66-page merged practical PDF, along with the original PDF for reference.
 
